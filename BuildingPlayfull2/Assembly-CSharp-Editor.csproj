@@ -62,7 +62,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
+    <Compile Include="Assets\niet mijn assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/beau0/Desktop/IntoTheShadow/BuildingPlayfull2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

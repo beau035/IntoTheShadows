@@ -64,25 +64,25 @@
   <ItemGroup>
     <Compile Include="Assets\beau\Scripts\AI_FollowTarget.cs" />
     <Compile Include="Assets\beau\Scripts\Controller.cs" />
+    <Compile Include="Assets\beau\Scripts\Damage.cs" />
+    <Compile Include="Assets\beau\Scripts\Destroy.cs" />
+    <Compile Include="Assets\beau\Scripts\GunHit.cs" />
+    <Compile Include="Assets\beau\Scripts\HealthScript.cs" />
     <Compile Include="Assets\beau\Scripts\Menu.cs" />
+    <Compile Include="Assets\beau\Scripts\nextLevel.cs" />
     <Compile Include="Assets\beau\Scripts\QuitButton.cs" />
+    <Compile Include="Assets\beau\Scripts\restart.cs" />
+    <Compile Include="Assets\beau\Scripts\ShootingScript.cs" />
+    <Compile Include="Assets\beau\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\beau\Scripts\StartGame.cs" />
     <Compile Include="Assets\beau\Scripts\WaveSpawner.cs" />
     <Compile Include="Assets\beau\Scripts\WaveSpawnerOld.cs" />
-    <Compile Include="Assets\Character\Scripts\ChaScript.cs" />
-    <Compile Include="Assets\Damage.cs" />
-    <Compile Include="Assets\Destroy.cs" />
-    <Compile Include="Assets\GunHit.cs" />
-    <Compile Include="Assets\HealthScript.cs" />
-    <Compile Include="Assets\nextLevel.cs" />
-    <Compile Include="Assets\restart.cs" />
-    <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\ShootingScript.cs" />
-    <Compile Include="Assets\StartGame.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
-    <Compile Include="Assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
-    <None Include="Assets\Character\ReadMe.txt" />
+    <Compile Include="Assets\niet mijn assets\Character\Scripts\ChaScript.cs" />
+    <Compile Include="Assets\niet mijn assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCameraLogic.cs" />
+    <Compile Include="Assets\niet mijn assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieCharacterControl.cs" />
+    <Compile Include="Assets\niet mijn assets\Supercyan Character Pack Zombie Sample\Scripts\ZombieFree.cs" />
+    <Compile Include="Assets\niet mijn assets\TutorialInfo\Scripts\Readme.cs" />
+    <None Include="Assets\niet mijn assets\Character\ReadMe.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/beau0/Desktop/IntoTheShadow/BuildingPlayfull2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
